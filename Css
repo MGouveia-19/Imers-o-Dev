@@ -1,0 +1,36 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  min-height: 450px;
+  background-image: url("https://thumbs.dreamstime.com/b/original-de-neg%C3%B3cio-na-...provado-o-original-%C3%A9-carregado-com-sucesso-96428492.jpg");
+  background-color: purple;
+  background-size: 80vh;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: white;
+  margin: 0 5px;
+}
+
+.page-subtitle {
+  color: white;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
